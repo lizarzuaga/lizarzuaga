@@ -1,5 +1,6 @@
 ## Hi there 👋 my name is Liz
-![Header](githubheaderimage.png)
+![githubheaderimage](https://github.com/user-attachments/assets/1b0bc2d8-8420-47da-971d-5a30e8621658)
+
 
 Skills: HTML / CSS
 
